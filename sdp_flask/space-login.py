@@ -7,7 +7,7 @@ dum = flask.Flask(__name__)
 
 @dum.route("/")
 def login_page():
-    return flask.render_template("space_mngmnt_login.html")
+    return flask.render_template("space-mngmnt-login.html")
 
 
 @dum.route("/n", methods=['POST'])
