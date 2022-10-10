@@ -18,6 +18,9 @@ def login():
 def contact():
     return render_template('album.html')
 
+@app.route('/customer')
+def customer():
+    return render_template('custo.html')
 
 if __name__ == "__main__":
     app.run(debug=True)
