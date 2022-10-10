@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8986d00c-91b9-4d00-8a30-257749dcbdf4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-grid.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-grid.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-grid.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-grid.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-grid.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-grid.rtl.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-grid.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-grid.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-reboot.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-reboot.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-reboot.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-reboot.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-reboot.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-reboot.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-utilities.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-utilities.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-utilities.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-utilities.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-utilities.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-utilities.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-utilities.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-utilities.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-utilities.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-utilities.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-utilities.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap.rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap.rtl.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap.rtl.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap.rtl.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/css/bootstrap.rtl.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/js/bootstrap.bundle.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/js/bootstrap.bundle.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/js/bootstrap.esm.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/js/bootstrap.esm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/js/bootstrap.esm.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/js/bootstrap.esm.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/js/bootstrap.esm.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/js/bootstrap.esm.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/js/bootstrap.esm.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/js/bootstrap.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/js/bootstrap.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/static/js/bootstrap.min.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/static/js/bootstrap.min.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/templates/album.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/templates/album.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/templates/coverpage.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/templates/coverpage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pfsd_646/sdp1/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../pfsd_646/sdp1/templates/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FvmWr1K3vkTmY5IfgEATJyyvDf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/badari/pfsd/sdp_flask"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8986d00c-91b9-4d00-8a30-257749dcbdf4" name="Changes" comment="" />
+      <created>1665380966772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665380966772</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
